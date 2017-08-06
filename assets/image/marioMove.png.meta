@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ee6c9de3-0392-4bd5-8e22-40e7cb823047",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "marioMove": {
+      "ver": "1.0.3",
+      "uuid": "32568b7e-3015-4290-b785-5a7f1c950295",
+      "rawTextureUuid": "ee6c9de3-0392-4bd5-8e22-40e7cb823047",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 15,
+      "height": 16,
+      "rawWidth": 15,
+      "rawHeight": 16,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
